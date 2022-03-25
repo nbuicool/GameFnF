@@ -1,8 +1,2 @@
-
-AppKeyBegin##{work}##LastAppKey
-//one signal
-appIdKeyBegin##{work}##LastappId
-//enable ads
-EnableAdsBegin##{false}##LastEnableAds
-// rate ads
-RateUsBegin##{work}##LastRateUs
+AppKeyBegin##{13e3dfb11}##LastAppKey
+AppIdSignalBegin##{454a2c9f-a244-4961-a588-f9bb94d40b6f}##LastAppIdSignal
