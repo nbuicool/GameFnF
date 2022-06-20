@@ -1,2 +1,6 @@
+
+//appKey IronSource
 AppKeyBegin##{1447f6ac1}##LastAppKey
-AppIdSignalBegin##{454a2c9f-a244-4961-a588-f9bb94d40b6f}##LastAppIdSignal
+moregameBegin##{https://www.google.com/}##Lastmoregame
+SheireBegin##{https://www.google.com/}##Sheiregame
+UrlRateUsBegin##{https://www.google.com/}##LastUrlRateUs
